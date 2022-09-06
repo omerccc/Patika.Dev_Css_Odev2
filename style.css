@@ -40,3 +40,10 @@
     margin: 1;
     background-color: rgb(2, 223, 223);
 }
+
+#foot {
+    margin-top: 100px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
