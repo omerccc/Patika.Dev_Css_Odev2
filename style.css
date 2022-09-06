@@ -1,0 +1,42 @@
+.search{
+    width:auto ;
+    text-align: center;
+    padding: 2%;
+    margin: 20px;
+    background-color: gainsboro;
+}
+
+.search-but{
+    width: 300px;
+}
+
+.link{
+    width: 30%;
+    float: left;
+    display: inline-block;
+    text-align: center;
+    padding: 3%;
+    margin: 20px;
+    margin: 1;
+    background-color: rgb(2, 223, 223);
+}
+
+.bilgi{
+    width: 15%;
+    float: left;
+    text-align: center;
+    padding: 2.5%;
+    margin: 20px;
+    margin: 1;
+    background-color: rgb(2, 223, 223);
+}
+
+.sub{
+    width: 34.2%;
+    float: left;
+    text-align: center;
+    padding: 1.15%;
+    margin: 20px;
+    margin: 1;
+    background-color: rgb(2, 223, 223);
+}
