@@ -16,9 +16,8 @@
     display: inline-block;
     text-align: center;
     padding: 3%;
-    margin: 20px;
-    margin: 1;
-    background-color: rgb(2, 223, 223);
+    margin: -19px -13px 1px 55px;
+    background-color: #7EE5DA;
 }
 
 .bilgi{
@@ -27,22 +26,23 @@
     text-align: center;
     padding: 2.5%;
     margin: 20px;
+    margin-top: -19px;
     margin: 1;
-    background-color: rgb(2, 223, 223);
+    background-color: #70CCC2;
 }
 
 .sub{
     width: 34.2%;
     float: left;
+    display: inline-block;
     text-align: center;
-    padding: 1.15%;
-    margin: 20px;
-    margin: 1;
-    background-color: rgb(2, 223, 223);
+    padding: 1.39%;
+    margin: -19px -5px 5px -14px;
+    background-color: #62B3AA;
 }
 
 #foot {
-    margin-top: 100px;
+    margin-top: 200px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
